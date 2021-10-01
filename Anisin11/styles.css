@@ -1,0 +1,45 @@
+body {
+    background-color: cornflowerblue;
+}
+
+H1 { text-align: center }
+
+.Title2 {
+    padding-top: 25px;
+    text-align: center;
+    font-size: 24px;
+}
+
+.Name {
+    margin: auto;
+}
+
+.PlaceButton {margin: 0 auto;}
+
+.Right{
+    text-align: right;
+}
+
+#rectangle{
+    width:800px;
+    height:600px;
+    background:aliceblue;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+}
+
+.button {
+    background-color: dodgerblue;
+    border: none;
+    color: white;
+    padding: 12px 16px;
+    text-align: center;
+    text-decoration: none;
+    margin-left: 43%;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+td {padding-top: 10px;}
