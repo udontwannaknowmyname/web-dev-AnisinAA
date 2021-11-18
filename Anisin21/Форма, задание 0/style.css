@@ -1,0 +1,60 @@
+.registration {
+    background-color: #72c1dd;
+}
+
+#title {
+    text-align: center;
+}
+
+#left {
+    text-align: right;
+}
+
+#pad {
+    padding-top: 1%;
+}
+
+#button {
+    background-color: #72c1dd;
+    border: none;
+    margin-top: 1%;
+    border-radius: 10px;
+}
+
+.block {
+    padding-top: 1%;
+    background-color: #e4eecc;
+    padding-bottom: 2%;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-radius: 10px;
+    margin-bottom: 2%;
+}
+
+.n {
+    border: none;
+    border-radius: 5px;
+}
+
+#nav1 {
+    /* margin-left: 0%;
+    margin-right: 0%; */
+    /* color: white; */
+    position: relative;
+    width: 100%;
+}
+
+#test {
+    color: azure;
+}
+
+#carouselExampleControls {
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+img {
+    border-radius: 5px;
+}
